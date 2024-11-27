@@ -1,0 +1,74 @@
+======== SAMPLE 1 ========
+ating for memory?
+A: A dedicated GPU is a new technology used to combine multiple graphics processors with greater speed and power than existing processors. It uses thermal throttling to prevent the CPU from achieving a speed advantage.
+
+
+Q: What is a socket in relation to a CPU?
+A: A socket is the physical connector on the motherboard that holds the CPU in place and allows it to connect electrically with the motherboard.
+
+Q: What is the function of a chipset on a motherboard?
+A: The chipset controls communication between the CPU, RAM, storage devices, and other peripherals. It acts as the "traffic manager" for data moving across the motherboard.
+
+Q: What are expansion slots used for in a computer?
+A: Expansion slots allow users to add additional hardware components, such as graphics cards, sound cards, network cards, or storage controllers, to enhance the system’s capabilities.
+
+Q: What is the difference between a 32-bit and a 64-bit processor?
+A: A 64-bit processor can handle larger chunks of data and access more memory than a 32-bit processor. It is more efficient for running modern software and applications.
+
+Q: What does GPU memory do?
+A: GPU memory, or VRAM (Video RAM), stores data that the GPU uses to render images, textures, and video. More VRAM allows for better performance in graphics-intensive tasks.
+
+Q: What is UEFI?
+A: UEFI (Unified Extensible Firmware Interface) is a modern version of BIOS that provides faster boot times, a more flexible user interface, and greater compatibility with larger drives and newer hardware.
+
+Q: What is a SATA port used for?
+A: A SATA (Serial ATA) port is used to connect storage devices, such as hard drives or SSDs, to the motherboard for data transfer.
+
+Q: What is a thunderbolt port used for?
+A: A Thunderbolt port is a high-speed data and video connection that can transfer data, video, and power simultaneously. It is commonly used for connecting external drives and monitors.
+
+Q: What is a VR headset and how does it connect to a computer?
+A: A VR headset is a device that immerses the user in virtual reality by displaying a 3D environment. It connects to a computer via HDMI, USB, or sometimes DisplayPort and requires a powerful GPU to render the virtual environment.
+
+Q: What is a surge protector used for?
+A: A surge protector safeguards computer components from power surges or spikes by diverting excess voltage to the ground, preventing damage to the hardware.
+
+
+
+
+
+
+
+
+
+Q: What is the difference between a laptop and desktop CPU?
+A: A desktop CPU generally has higher clock speeds and more cores than a laptop CPU, which is designed to be power-efficient and compact for mobile use.
+
+Q: What is a wireless card used for in a computer?
+A: A wireless card allows a computer to connect to a Wi-Fi network, providing internet access without the need for cables.
+
+Q: What is the function of a CMOS battery?
+A: The CMOS battery powers the system's real-time clock and maintains BIOS settings when the computer is powered off.
+
+Q: What is a motherboard form factor?
+A: The motherboard form factor refers to the size, shape, and layout of a motherboard. Common form factors include ATX, microATX, and Mini-ITX.
+
+Q: What is a digital-to-analog converter (DAC)?
+A: A DAC converts digital audio signals from a computer into analog signals that can be used by speakers or headphones.
+
+Q: What is a cryptographic accelerator in a CPU?
+A: A cryptographic accelerator is a specialized processor designed to speed up cryptographic operations, such as encryption and decryption, to improve security and performance.
+
+Q: What is the difference between VGA, DVI, and HDMI?
+A: VGA (Video Graphics Array) is an analog video connection; DVI (Digital Visual Interface) supports both analog and digital signals, while HDMI (High-Definition Multimedia Interface) supports both video and audio in a digital format.
+
+Q: What does an integrated GPU mean?
+A: An integrated GPU is a graphics processor built into the CPU or motherboard, offering basic graphics capabilities without the need for a separate graphics card.
+
+Q: What is ECC memory?
+A: ECC (Error-Correcting Code) memory automatically detects and resolves memory errors, providing greater stability and reliability, especially in servers and workstations.
+
+Q: What is a network switch?
+A: A network switch is a device that connects multiple devices within a local area network (LAN) and directs data packets to the correct destination based on MAC addresses.
+
+Q: What is a wireless
